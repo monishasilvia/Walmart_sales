@@ -1,4 +1,4 @@
-README: Walmart Sales Analysis
+**README: Walmart Sales Analysis**
 
 Overview
 
